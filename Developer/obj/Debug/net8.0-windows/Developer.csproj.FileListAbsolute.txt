@@ -39,3 +39,4 @@ C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-w
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.genruntimeconfig.cache
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\ref\Developer.dll
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Login.resources
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Properties.Resources.resources
