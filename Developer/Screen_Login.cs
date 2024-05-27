@@ -1,13 +1,29 @@
+using System.Runtime.InteropServices;
+
 namespace Developer
 {
     public partial class Screen_Login : Form
     {
+        [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
+        private static extern IntPtr CreateRoundRectRgn
+        (
+             int nLeftRect,
+             int nTopRect,
+             int nRightRect,
+             int nBottomRect,
+             int nWidthEllipse,
+             int nHeightEllipse
+
+        );
+
         // References
         Screen_Calculator Screen_Calculator = new Screen_Calculator();
 
         public Screen_Login()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 35, 35));
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -49,6 +65,11 @@ namespace Developer
         }
 
         private void btnresize_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Screen_Login_Load_1(object sender, EventArgs e)
         {
 
         }

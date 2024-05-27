@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Screen_Login));
-            btnlogin = new Button();
-            btnsingin = new Button();
             txtpassword = new TextBox();
             txtusername = new TextBox();
             label1 = new Label();
@@ -42,36 +40,9 @@
             btnresize = new Button();
             button2 = new Button();
             button1 = new Button();
+            rjButton1 = new Customized_Controls.RJButton();
+            rjButton2 = new Customized_Controls.RJButton();
             SuspendLayout();
-            // 
-            // btnlogin
-            // 
-            btnlogin.BackColor = Color.LimeGreen;
-            btnlogin.Cursor = Cursors.Hand;
-            btnlogin.FlatStyle = FlatStyle.Flat;
-            btnlogin.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnlogin.ForeColor = Color.White;
-            btnlogin.Location = new Point(79, 580);
-            btnlogin.Name = "btnlogin";
-            btnlogin.Size = new Size(265, 44);
-            btnlogin.TabIndex = 0;
-            btnlogin.Text = "LOGIN";
-            btnlogin.UseVisualStyleBackColor = false;
-            btnlogin.Click += button1_Click;
-            // 
-            // btnsingin
-            // 
-            btnsingin.Cursor = Cursors.Hand;
-            btnsingin.FlatAppearance.BorderSize = 2;
-            btnsingin.FlatStyle = FlatStyle.Flat;
-            btnsingin.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnsingin.ForeColor = Color.Red;
-            btnsingin.Location = new Point(79, 640);
-            btnsingin.Name = "btnsingin";
-            btnsingin.Size = new Size(265, 44);
-            btnsingin.TabIndex = 1;
-            btnsingin.Text = "SING IN";
-            btnsingin.UseVisualStyleBackColor = true;
             // 
             // txtpassword
             // 
@@ -139,7 +110,7 @@
             // btncalculator
             // 
             btncalculator.Cursor = Cursors.Hand;
-            btncalculator.Location = new Point(79, 519);
+            btncalculator.Location = new Point(27, 460);
             btncalculator.Name = "btncalculator";
             btncalculator.Size = new Size(46, 41);
             btncalculator.TabIndex = 9;
@@ -196,12 +167,52 @@
             button1.TabIndex = 12;
             button1.UseVisualStyleBackColor = true;
             // 
+            // rjButton1
+            // 
+            rjButton1.BackColor = Color.White;
+            rjButton1.BackgroundColor = Color.White;
+            rjButton1.BorderColor = Color.Red;
+            rjButton1.BorderRadius = 15;
+            rjButton1.BorderSize = 3;
+            rjButton1.FlatAppearance.BorderSize = 2;
+            rjButton1.FlatStyle = FlatStyle.Flat;
+            rjButton1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            rjButton1.ForeColor = Color.Red;
+            rjButton1.Location = new Point(97, 649);
+            rjButton1.Name = "rjButton1";
+            rjButton1.Size = new Size(206, 46);
+            rjButton1.TabIndex = 13;
+            rjButton1.Text = "SING IN";
+            rjButton1.TextColor = Color.Red;
+            rjButton1.UseVisualStyleBackColor = false;
+            // 
+            // rjButton2
+            // 
+            rjButton2.BackColor = Color.LimeGreen;
+            rjButton2.BackgroundColor = Color.LimeGreen;
+            rjButton2.BorderColor = Color.LimeGreen;
+            rjButton2.BorderRadius = 15;
+            rjButton2.BorderSize = 3;
+            rjButton2.FlatAppearance.BorderSize = 2;
+            rjButton2.FlatStyle = FlatStyle.Flat;
+            rjButton2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            rjButton2.ForeColor = Color.White;
+            rjButton2.Location = new Point(97, 581);
+            rjButton2.Name = "rjButton2";
+            rjButton2.Size = new Size(206, 46);
+            rjButton2.TabIndex = 14;
+            rjButton2.Text = "LOGIN";
+            rjButton2.TextColor = Color.White;
+            rjButton2.UseVisualStyleBackColor = false;
+            // 
             // Screen_Login
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(423, 740);
+            ClientSize = new Size(425, 740);
+            Controls.Add(rjButton2);
+            Controls.Add(rjButton1);
             Controls.Add(button1);
             Controls.Add(button2);
             Controls.Add(btnresize);
@@ -213,21 +224,17 @@
             Controls.Add(label1);
             Controls.Add(txtusername);
             Controls.Add(txtpassword);
-            Controls.Add(btnsingin);
-            Controls.Add(btnlogin);
             Cursor = Cursors.Hand;
             FormBorderStyle = FormBorderStyle.None;
             Name = "Screen_Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Screen Login";
+            Load += Screen_Login_Load_1;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Button btnlogin;
-        private Button btnsingin;
         private TextBox txtpassword;
         private TextBox txtusername;
         private Label label1;
@@ -240,5 +247,7 @@
         private Button btnresize;
         private Button button2;
         private Button button1;
+        private Customized_Controls.RJButton rjButton1;
+        private Customized_Controls.RJButton rjButton2;
     }
 }

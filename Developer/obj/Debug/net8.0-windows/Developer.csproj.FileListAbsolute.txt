@@ -40,3 +40,6 @@ C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-w
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Login.resources
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Properties.Resources.resources
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Calculator.resources
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Modern_Login.resources
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Customized_Controls.Customized_Panel.resources
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Customized_Controls.Customized_Button.resources
