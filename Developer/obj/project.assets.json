@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "AltoControls/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/AltoControls.dll": {}
+        },
+        "runtime": {
+          "lib/AltoControls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltoControls/1.0.1": {
+      "sha512": "o2zVpSjsmIX4M92CAEP90cNdkDA/dOWRShDk1nU4AFGa+p2sIbkilyBi5tVXak5gYLxKp4E1rGHbCi92l5VGFA==",
+      "type": "package",
+      "path": "altocontrols/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "altocontrols.1.0.1.nupkg.sha512",
+        "altocontrols.nuspec",
+        "lib/AltoControls.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "AltoControls >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\willi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\Proyectos_Desarrollo\\Developer\\Developer\\Developer.csproj",
+      "projectName": "Developer",
+      "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Proyectos_Desarrollo\\Developer\\Developer\\Developer.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Proyectos_Desarrollo\\Developer\\Developer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "AltoControls": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"AltoControls 1.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "AltoControls",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
