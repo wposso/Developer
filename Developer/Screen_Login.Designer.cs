@@ -40,6 +40,7 @@
             pnlheader = new Panel();
             btnminimize = new Button();
             btnexit = new Button();
+            btncalculator = new Button();
             pnlheader.SuspendLayout();
             SuspendLayout();
             // 
@@ -169,12 +170,24 @@
             btnexit.UseVisualStyleBackColor = true;
             btnexit.Click += btnexit_Click;
             // 
+            // btncalculator
+            // 
+            btncalculator.Cursor = Cursors.Hand;
+            btncalculator.Location = new Point(79, 519);
+            btncalculator.Name = "btncalculator";
+            btncalculator.Size = new Size(46, 41);
+            btncalculator.TabIndex = 9;
+            btncalculator.Text = "∟";
+            btncalculator.UseVisualStyleBackColor = true;
+            btncalculator.Click += btncalculator_Click;
+            // 
             // Screen_Login
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(423, 740);
+            Controls.Add(btncalculator);
             Controls.Add(pnlheader);
             Controls.Add(label3);
             Controls.Add(chshowpassword);
@@ -206,5 +219,6 @@
         private Panel pnlheader;
         private Button btnminimize;
         private Button btnexit;
+        private Button btncalculator;
     }
 }

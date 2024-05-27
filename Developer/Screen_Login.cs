@@ -2,6 +2,9 @@ namespace Developer
 {
     public partial class Screen_Login : Form
     {
+        // References
+        Screen_Calculator Screen_Calculator = new Screen_Calculator();
+
         public Screen_Login()
         {
             InitializeComponent();
@@ -32,6 +35,11 @@ namespace Developer
         private void btnminimize_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
+        }
+
+        private void btncalculator_Click(object sender, EventArgs e)
+        {
+            Screen_Calculator.Show();
         }
     }
 }
