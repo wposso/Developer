@@ -32,14 +32,25 @@ namespace Developer
             Application.Exit();
         }
 
-        private void btnminimize_Click(object sender, EventArgs e)
-        {
-            WindowState = FormWindowState.Minimized;
-        }
 
         private void btncalculator_Click(object sender, EventArgs e)
         {
             Screen_Calculator.Show();
+        }
+
+        private void Screen_Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnminimize1_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void btnresize_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
