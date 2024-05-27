@@ -18,3 +18,24 @@ C:\Users\willi\OneDrive\Escritorio\Proyectos_Desarrollo\Developer\Developer\obj\
 C:\Users\willi\OneDrive\Escritorio\Proyectos_Desarrollo\Developer\Developer\obj\Debug\net8.0-windows\Developer.pdb
 C:\Users\willi\OneDrive\Escritorio\Proyectos_Desarrollo\Developer\Developer\obj\Debug\net8.0-windows\Developer.genruntimeconfig.cache
 C:\Users\willi\OneDrive\Escritorio\Proyectos_Desarrollo\Developer\Developer\obj\Debug\net8.0-windows\ref\Developer.dll
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\Developer.exe
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\Developer.deps.json
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\Developer.runtimeconfig.json
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\Developer.dll
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\Developer.pdb
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\AltoControls.dll
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.AssemblyReference.cache
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Form2.resources
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.GenerateResource.cache
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.AssemblyInfoInputs.cache
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.AssemblyInfo.cs
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.CoreCompileInputs.cache
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.sourcelink.json
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.Up2Date
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.dll
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\refint\Developer.dll
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.pdb
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.genruntimeconfig.cache
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\ref\Developer.dll
+C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Login.resources

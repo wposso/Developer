@@ -1,8 +1,8 @@
 namespace Developer
 {
-    public partial class Form1 : Form
+    public partial class Screen_Login : Form
     {
-        public Form1()
+        public Screen_Login()
         {
             InitializeComponent();
         }

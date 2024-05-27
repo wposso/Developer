@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "qfiEUKtk+BtdBr/qlEw/WTUc3gThu+VJ9QygpmbF9pkBE4RWNvEf0iY5iXXLWs0XmSRsp+QpMNaYEjrOeTMKCg==",
+  "dgSpecHash": "54XGigk1bKXtSxs3KTKA4MP+BKJpf51HgnryedqPTz9OWGuTccGK1VC6vkEqG7dyJAB5HRcOPy9tKOSzWggLvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Proyectos_Desarrollo\\Developer\\Developer\\Developer.csproj",
+  "projectFilePath": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\willi\\.nuget\\packages\\altocontrols\\1.0.1\\altocontrols.1.0.1.nupkg.sha512"
+    "C:\\Users\\soporte MPOS\\.nuget\\packages\\altocontrols\\1.0.1\\altocontrols.1.0.1.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"AltoControls 1.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'AltoControls 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "AltoControls",
       "targetGraphs": [
         "net8.0-windows7.0"
