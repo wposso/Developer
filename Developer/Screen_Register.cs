@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+<<<<<<< HEAD
 using System.Data.SqlClient;
+=======
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -11,6 +14,7 @@ using System.Windows.Forms;
 
 namespace Developer
 {
+<<<<<<< HEAD
 
     public partial class Screen_Register : Form
     {
@@ -70,6 +74,13 @@ namespace Developer
             {
                 txtpasswordR.PasswordChar = '•';
             }
+=======
+    public partial class Screen_Register : Form
+    {
+        public Screen_Register()
+        {
+            InitializeComponent();
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
         }
     }
 }

@@ -77,6 +77,7 @@ namespace Developer
 
         }
 
+<<<<<<< HEAD
         private void button3_Click(object sender, EventArgs e)
         {
             try
@@ -113,6 +114,42 @@ namespace Developer
             if (pnlload.Controls.Count > 0)
                 pnlload.Controls.Clear();
             Form B = screen_Login_Load as Form;
+=======
+        private void btnminisize_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void pnlload_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void OpenRegister(object Screen_Register)
+        {
+            if (this.pnlload.Controls.Count > 0)
+                this.pnlload.Controls.RemoveAt(0);
+            Form A = Screen_Register as Form;
+            A.TopLevel = false;
+            A.Dock = DockStyle.Fill;
+            this.pnlload.Controls.Add(A);
+            this.pnlload.Tag = A;
+            A.Show();
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            //OpenRegister(new Screen_Register());
+            pnlmove.Location = new Point(993, 232);
+        }
+
+        private void OpenLogin(object Screen_Login)
+        {
+            if (this.pnlload.Controls.Count > 0)
+                this.pnlload.Controls.RemoveAt(0);
+            Form B = Screen_Login as Form;
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
             B.TopLevel = false;
             B.Dock = DockStyle.Fill;
             this.pnlload.Controls.Add(B);
@@ -121,6 +158,7 @@ namespace Developer
 
         }
 
+<<<<<<< HEAD
         private void AbrirpnlloadR(object screen_Register)
         {
             //this.pnlload.Controls.Clear();
@@ -208,6 +246,12 @@ namespace Developer
         private void button1_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
+=======
+        private void label6_Click(object sender, EventArgs e)
+        {
+            //OpenRegister(new Screen_Login());
+            pnlmove.Location = new Point(813, 232);
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
         }
     }
 }

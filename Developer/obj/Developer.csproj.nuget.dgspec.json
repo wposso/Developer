@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj": {}
+    "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj": {
+    "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj",
         "projectName": "Developer",
-        "projectPath": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj",
-        "packagesPath": "C:\\Users\\soporte MPOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\obj\\",
+        "projectPath": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\soporte MPOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

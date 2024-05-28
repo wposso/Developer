@@ -1651,19 +1651,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\soporte MPOS\\.nuget\\packages\\": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj",
       "projectName": "Developer",
-      "projectPath": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj",
-      "packagesPath": "C:\\Users\\soporte MPOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\obj\\",
+      "projectPath": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\soporte MPOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1735,7 +1735,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'AltoControls 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"AltoControls 1.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "AltoControls",
       "targetGraphs": [
         "net8.0-windows7.0"

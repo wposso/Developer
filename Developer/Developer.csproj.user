@@ -19,5 +19,8 @@
     <Compile Update="Screen_Register.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Screen_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

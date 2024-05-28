@@ -1,9 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ioEw4X9JW8rFnOMMhRnPpLp1rq+3lp9TTiEwrTefUczX9KnDOx2cnQ2gIvblBpPqhuEkLXbQLZ7SBpD1V2XyPg==",
+=======
+  "dgSpecHash": "j1ZOYM3DIsI739zrWt36pTILhEuUveq/9HJ729OPsfMiH3TVaTUt0bMYCu5AIihlwq/V7qxMqpvkvsD6cbySpQ==",
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
   "success": true,
-  "projectFilePath": "C:\\Users\\soporte MPOS\\Source\\Repos\\wposso\\Developer\\Developer\\Developer.csproj",
+  "projectFilePath": "C:\\Users\\willi\\Source\\Repos\\Developer\\Developer\\Developer.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\soporte MPOS\\.nuget\\packages\\altocontrols\\1.0.1\\altocontrols.1.0.1.nupkg.sha512",
     "C:\\Users\\soporte MPOS\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\soporte MPOS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -35,13 +40,16 @@
     "C:\\Users\\soporte MPOS\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\soporte MPOS\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\soporte MPOS\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+=======
+    "C:\\Users\\willi\\.nuget\\packages\\altocontrols\\1.0.1\\altocontrols.1.0.1.nupkg.sha512"
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'AltoControls 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"AltoControls 1.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "AltoControls",
       "targetGraphs": [
         "net8.0-windows7.0"

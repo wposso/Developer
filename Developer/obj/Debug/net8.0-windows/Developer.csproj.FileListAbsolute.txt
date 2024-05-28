@@ -42,6 +42,7 @@ C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-w
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Calculator.resources
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Customized_Controls.Customized_Panel.resources
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Customized_Controls.Customized_Button.resources
+<<<<<<< HEAD
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\EntityFramework.dll
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
@@ -62,3 +63,31 @@ C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-w
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Register.resources
 C:\Users\soporte MPOS\Source\Repos\wposso\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Login_load.resources
+=======
+C:\Users\willi\Source\Repos\Developer\Developer\bin\Debug\net8.0-windows\Developer.exe
+C:\Users\willi\Source\Repos\Developer\Developer\bin\Debug\net8.0-windows\Developer.deps.json
+C:\Users\willi\Source\Repos\Developer\Developer\bin\Debug\net8.0-windows\Developer.runtimeconfig.json
+C:\Users\willi\Source\Repos\Developer\Developer\bin\Debug\net8.0-windows\Developer.dll
+C:\Users\willi\Source\Repos\Developer\Developer\bin\Debug\net8.0-windows\Developer.pdb
+C:\Users\willi\Source\Repos\Developer\Developer\bin\Debug\net8.0-windows\AltoControls.dll
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.AssemblyReference.cache
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Customized_Controls.Customized_Button.resources
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Customized_Controls.Customized_Panel.resources
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Properties.Resources.resources
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Calculator.resources
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Login.resources
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Modern_Login.resources
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.GenerateResource.cache
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.AssemblyInfoInputs.cache
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.AssemblyInfo.cs
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.CoreCompileInputs.cache
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.sourcelink.json
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.csproj.Up2Date
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.dll
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\refint\Developer.dll
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.pdb
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.genruntimeconfig.cache
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\ref\Developer.dll
+C:\Users\willi\Source\Repos\Developer\Developer\obj\Debug\net8.0-windows\Developer.Screen_Register.resources
+>>>>>>> 63add42f44987fddc114424c8c0141ae242c2ff9
