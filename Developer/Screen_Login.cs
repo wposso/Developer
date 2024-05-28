@@ -73,5 +73,53 @@ namespace Developer
         {
 
         }
+
+        private void btnminisize_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void pnlload_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void OpenRegister(object Screen_Register)
+        {
+            if (this.pnlload.Controls.Count > 0)
+                this.pnlload.Controls.RemoveAt(0);
+            Form A = Screen_Register as Form;
+            A.TopLevel = false;
+            A.Dock = DockStyle.Fill;
+            this.pnlload.Controls.Add(A);
+            this.pnlload.Tag = A;
+            A.Show();
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            //OpenRegister(new Screen_Register());
+            pnlmove.Location = new Point(993, 232);
+        }
+
+        private void OpenLogin(object Screen_Login)
+        {
+            if (this.pnlload.Controls.Count > 0)
+                this.pnlload.Controls.RemoveAt(0);
+            Form B = Screen_Login as Form;
+            B.TopLevel = false;
+            B.Dock = DockStyle.Fill;
+            this.pnlload.Controls.Add(B);
+            this.pnlload.Tag = B;
+            B.Show();
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            //OpenRegister(new Screen_Login());
+            pnlmove.Location = new Point(813, 232);
+        }
     }
 }
