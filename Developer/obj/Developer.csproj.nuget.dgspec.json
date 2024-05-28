@@ -48,6 +48,14 @@
             "AltoControls": {
               "target": "Package",
               "version": "[1.0.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             }
           },
           "imports": [

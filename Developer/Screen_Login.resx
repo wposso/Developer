@@ -170,7 +170,7 @@
         7BaErULYSzxd+gPNPnj0pxpc46l/BNu4XqFNkQ3VWTY/Rc2g1B9zW+ZTlpIO0QAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnminimized.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         DAAACwwBP0AiyAAAAvdJREFUaEPtWsluE0EQ9YnlAAoS2418BkJRZoxYjBRwLtNtO0h8QZQofxHgAAIJ
